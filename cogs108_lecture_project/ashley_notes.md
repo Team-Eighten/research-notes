@@ -45,24 +45,25 @@
     - Additional info:
       - Not every student will have a `@ucsd.edu` email. However, this is probably a good enough start.
 - Student-side
-  - Feature 1
-    - Purpose:
+  - Feature 1: joining a class
+    - Purpose: this allows a student to participate. On the screen, it would ideally say the name of the class e.g. "COGS 108" to inform the student that they are indeed answering for x class.
     - Additional info:
-  - Feature 2
-    - Purpose:
-    - Additional info:
+      - This can probably be simple like a class code to join. It could either be something random like "ABCDEF" or a hackable phrase like "ucsd-sp26-cogs108-a01".
 - Professor/TA-side
   - Feature 1: session and question CRUD 
     - Purpose: the instructor(s) can create questions and perhaps even collections of questions for specific lectures. This is the crux of the app.
     - Additional info:
       - We could consider "sessions" akin to creating folders to organize questions e.g. you may have Lecture 1 with 10 questions, Lecture 2 with 4 questions, and so on.
       - Questions should be editable during the session in case a typo or error is noticed. This does not seem like it would be an MVP goal though.
+      - The professor/TAs should be able to create a variety of questions e.g. multiple choice, enter a phrase (--> word cloud), or drawing.
+      - It may be interesting to have multiple parts to a "live question" too. For example, you could have 2 multiple choice questions, 1 multiple choice and 1 drawing, etc.
   - Feature 2: create a class
     - Purpose: helps instructors keep track of their classes, especially if they teach multiple sections. Additionally, we want to create separate "rooms" such that students in Class A are participating for Class A and are not accidentally connected to Class B.
-    - Additional info: N/A
+    - Additional info:
+      - See Feature 1 under student side.
   - Feature 3: export participation data and/or participation summary
     - Purpose: if the instructor uses polling for participation grades, then this data will be useful for them to track grading.
     - Additional info:
       - Image data may be difficult.
   - Feature 4: viewing/displaying answers
-    - Purpose: this can 
+    - Purpose: this can either be a small select random sample or a few the professor/TA chooses.
