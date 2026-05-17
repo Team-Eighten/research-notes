@@ -1,5 +1,8 @@
 # Survey Notes
-Yippee!
+| Quick Links            |
+| -----------------------|
+| [Phyo](#phyo-thant)    |
+| [Ashley](#ashley-vo)   |
 
 ## Phyo Thant
 - What is your biggest frustration about using iClicker / Top Hat? (select all that applies)
@@ -32,3 +35,33 @@ Yippee!
 
 - If this tool were used for participation credit, would you prefer to see your "Participation Status" (i.e., "You have checked in for today") updated in real-time within the app?
   - Yes / No
+
+## Ashley Vo
+### More techy questions
+1. During lecture, what device(s) do you use?
+   1. Smartphone
+   2. Tablet
+   3. Laptop
+   4. Other (fill-in-the-blank)
+2. What browser(s) do you use?
+   1. Chrome
+   2. Edge
+   3. Firefox
+   4. Safari
+   5. Opera
+   6. Other (fill-in-the-blank)
+3. What operating system(s) do you use on your device(s)?
+   1. Windows
+   2. MacOS
+   3. Linux
+   4. Android
+   5. iOS
+   6. Other (fill-in-the-blank)
+4. From your experience with the lecture halls, how would you rate your connectivity to the internet? (1 = "terrible; I have trouble getting internet/can't connect at all", 5 = "excellent; I have no issues").
+
+### More sentimental questions
+For the following questions, these are a disagree - agree scale followed by an optional field for comments.
+
+1. Lecture participation questions help me in my understanding of the content.
+2. Lecture participation questions allow me to engage in meaningful discussion with my peers.
+3. I'm more concerned about getting participation credit than the content of the questions asked.
