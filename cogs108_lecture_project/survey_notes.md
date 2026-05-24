@@ -59,6 +59,18 @@
    6. Other (fill-in-the-blank)
 4. From your experience with the lecture halls, how would you rate your connectivity to the internet? (1 = "terrible; I have trouble getting internet/can't connect at all", 5 = "excellent; I have no issues").
 
+
+## Dorjé Pradhan
+### Some ideas
+1. During a typical lecture, how often do you find your attention drifting to your phone or other tasks?
+2. If participation credit were removed, but the activities stayed the same, how often would you participate?
+   1. (a little rewording of one of the learning questions)
+3. Think of a lecture where you felt particularly engaged. What was happening?
+4. (Agree/Disagree) I often complete participation activities without really thinking about the question.
+   1. Or maybe ask how long they spend on participation activities(?)
+5. Not a question, but it may be worht considering putting the sentiment questions *before* anything that reveals the app's features.
+   
+
 ### More sentimental questions
 For the following questions, these are a disagree - agree scale followed by an optional field for comments.
 
